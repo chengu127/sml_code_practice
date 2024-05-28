@@ -3,7 +3,13 @@
 """
 Created on Tue May 28 18:06:53 2024
 using monte carlo simulation to estimate new data error
+the law of large number ensures that as the number of samples increase,
+the average of the result from the random samples will converge to the expected value
 
+monte carlo simulation
+1 random sampling: relies on generating random variables according to a specific probability distribution
+2 repetiion: simulation is run multiple times to account for variability and randomness
+is a powerful tool for estimating the probability distribution of outcomes
 @author: chengu
 """
 
